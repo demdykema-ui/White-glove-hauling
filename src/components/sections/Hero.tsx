@@ -33,15 +33,15 @@ export function Hero() {
         </span>
 
         <h1 className="mx-auto mt-8 max-w-4xl font-display text-5xl font-medium leading-[1.02] text-ivory sm:text-6xl md:text-7xl lg:text-[5.25rem]">
-          The most{" "}
-          <span className="text-gilded italic">exotic</span> junk movers
-          <br className="hidden sm:block" /> in the world.
+          White-glove removal for fine homes,
+          <br className="hidden sm:block" /> estates, and the{" "}
+          <span className="text-gilded italic">irreplaceable</span>.
         </h1>
 
         <p className="mx-auto mt-7 max-w-2xl text-lg leading-relaxed text-ash sm:text-xl">
-          Discreet, white-glove removal and hauling for those who expect
-          everything handled — and nothing noticed. Junk, move-outs, debris,
-          and the genuinely peculiar, made to vanish.
+          The most exotic junk movers in the world — discreet, fully insured,
+          and gone without a trace. Estate clear-outs, luxury move-outs,
+          renovation debris, and the genuinely peculiar, made to vanish.
         </p>
 
         <div className="mt-11 flex flex-col items-center justify-center gap-4 sm:flex-row">

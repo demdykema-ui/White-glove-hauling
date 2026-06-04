@@ -150,7 +150,7 @@ export function Monogram({
         fill="none"
       />
       <path
-        d="M41 20a7 7 0 1 0 0 8M41 24h-4.5"
+        d="M41 20a7 7 0 1 0 0 8M41 28v-4h-5"
         stroke="currentColor"
         strokeWidth="1.6"
         strokeLinecap="round"
